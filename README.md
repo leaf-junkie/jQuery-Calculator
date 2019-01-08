@@ -1,5 +1,7 @@
 # jQuery Calculator
 
+Link to calculator: https://leaf-junkie.github.io/jQuery-Calculator/
+
 ## File
 
 * [`jquery-calculator-starter`](Unsolved/jquery-calculator.html)
